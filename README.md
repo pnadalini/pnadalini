@@ -25,4 +25,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pnadalini/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9801177/pietro-nadalini)
 
-<img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9801177&textfill=FFF&fill=linear-gradient%2862deg%2C%20%23111827%200%25%2C%20%23374151%20100%25%29%3B%0A">
+<a href="https://stackoverflow.com/users/9801177/pietro-nadalini" target="_blank" rel="noopener noreferrer">
+  <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9801177&textfill=FFF&fill=linear-gradient%2862deg%2C%20%23111827%200%25%2C%20%23374151%20100%25%29%3B%0A">
+</a>
